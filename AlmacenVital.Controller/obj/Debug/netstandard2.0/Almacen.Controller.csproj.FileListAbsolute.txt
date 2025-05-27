@@ -11,3 +11,17 @@ C:\Users\DANTE01\source\repos\AlmacenVital.Controller\obj\Debug\netstandard2.0\A
 C:\Users\DANTE01\source\repos\AlmacenVital.Controller\obj\Debug\netstandard2.0\Almacen..6A01D393.Up2Date
 C:\Users\DANTE01\source\repos\AlmacenVital.Controller\obj\Debug\netstandard2.0\Almacen.Controller.dll
 C:\Users\DANTE01\source\repos\AlmacenVital.Controller\obj\Debug\netstandard2.0\Almacen.Controller.pdb
+C:\Users\emirh\Documents\prueba antes del final\ParcialN1Almacen\AlmacenVital.Controller\bin\Debug\netstandard2.0\Almacen.Controller.deps.json
+C:\Users\emirh\Documents\prueba antes del final\ParcialN1Almacen\AlmacenVital.Controller\bin\Debug\netstandard2.0\Almacen.Controller.dll
+C:\Users\emirh\Documents\prueba antes del final\ParcialN1Almacen\AlmacenVital.Controller\bin\Debug\netstandard2.0\Almacen.Controller.pdb
+C:\Users\emirh\Documents\prueba antes del final\ParcialN1Almacen\AlmacenVital.Controller\bin\Debug\netstandard2.0\Almacen.Model.dll
+C:\Users\emirh\Documents\prueba antes del final\ParcialN1Almacen\AlmacenVital.Controller\bin\Debug\netstandard2.0\Almacen.Model.pdb
+C:\Users\emirh\Documents\prueba antes del final\ParcialN1Almacen\AlmacenVital.Controller\obj\Debug\netstandard2.0\Almacen.Controller.csproj.AssemblyReference.cache
+C:\Users\emirh\Documents\prueba antes del final\ParcialN1Almacen\AlmacenVital.Controller\obj\Debug\netstandard2.0\Almacen.Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirh\Documents\prueba antes del final\ParcialN1Almacen\AlmacenVital.Controller\obj\Debug\netstandard2.0\Almacen.Controller.AssemblyInfoInputs.cache
+C:\Users\emirh\Documents\prueba antes del final\ParcialN1Almacen\AlmacenVital.Controller\obj\Debug\netstandard2.0\Almacen.Controller.AssemblyInfo.cs
+C:\Users\emirh\Documents\prueba antes del final\ParcialN1Almacen\AlmacenVital.Controller\obj\Debug\netstandard2.0\Almacen.Controller.csproj.CoreCompileInputs.cache
+C:\Users\emirh\Documents\prueba antes del final\ParcialN1Almacen\AlmacenVital.Controller\obj\Debug\netstandard2.0\Almacen.Controller.sourcelink.json
+C:\Users\emirh\Documents\prueba antes del final\ParcialN1Almacen\AlmacenVital.Controller\obj\Debug\netstandard2.0\Almacen..6A01D393.Up2Date
+C:\Users\emirh\Documents\prueba antes del final\ParcialN1Almacen\AlmacenVital.Controller\obj\Debug\netstandard2.0\Almacen.Controller.dll
+C:\Users\emirh\Documents\prueba antes del final\ParcialN1Almacen\AlmacenVital.Controller\obj\Debug\netstandard2.0\Almacen.Controller.pdb

@@ -8,3 +8,14 @@ C:\Users\DANTE01\source\repos\AlmacenVital.Model\obj\Debug\netstandard2.0\Almace
 C:\Users\DANTE01\source\repos\AlmacenVital.Model\obj\Debug\netstandard2.0\Almacen.Model.csproj.CoreCompileInputs.cache
 C:\Users\DANTE01\source\repos\AlmacenVital.Model\obj\Debug\netstandard2.0\Almacen.Model.dll
 C:\Users\DANTE01\source\repos\AlmacenVital.Model\obj\Debug\netstandard2.0\Almacen.Model.pdb
+C:\Users\emirh\Documents\prueba antes del final\ParcialN1Almacen\AlmacenVital.Model\bin\Debug\netstandard2.0\Almacen.Model.deps.json
+C:\Users\emirh\Documents\prueba antes del final\ParcialN1Almacen\AlmacenVital.Model\bin\Debug\netstandard2.0\Almacen.Model.dll
+C:\Users\emirh\Documents\prueba antes del final\ParcialN1Almacen\AlmacenVital.Model\bin\Debug\netstandard2.0\Almacen.Model.pdb
+C:\Users\emirh\Documents\prueba antes del final\ParcialN1Almacen\AlmacenVital.Model\obj\Debug\netstandard2.0\Almacen.Model.csproj.AssemblyReference.cache
+C:\Users\emirh\Documents\prueba antes del final\ParcialN1Almacen\AlmacenVital.Model\obj\Debug\netstandard2.0\Almacen.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirh\Documents\prueba antes del final\ParcialN1Almacen\AlmacenVital.Model\obj\Debug\netstandard2.0\Almacen.Model.AssemblyInfoInputs.cache
+C:\Users\emirh\Documents\prueba antes del final\ParcialN1Almacen\AlmacenVital.Model\obj\Debug\netstandard2.0\Almacen.Model.AssemblyInfo.cs
+C:\Users\emirh\Documents\prueba antes del final\ParcialN1Almacen\AlmacenVital.Model\obj\Debug\netstandard2.0\Almacen.Model.csproj.CoreCompileInputs.cache
+C:\Users\emirh\Documents\prueba antes del final\ParcialN1Almacen\AlmacenVital.Model\obj\Debug\netstandard2.0\Almacen.Model.sourcelink.json
+C:\Users\emirh\Documents\prueba antes del final\ParcialN1Almacen\AlmacenVital.Model\obj\Debug\netstandard2.0\Almacen.Model.dll
+C:\Users\emirh\Documents\prueba antes del final\ParcialN1Almacen\AlmacenVital.Model\obj\Debug\netstandard2.0\Almacen.Model.pdb

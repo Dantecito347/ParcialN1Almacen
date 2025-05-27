@@ -152,12 +152,12 @@
     <None Include="Resources\WhatsApp Image 2025-05-02 at 11.30.58.jpeg" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AlmacenVital.Controller\Almacen.Controller.csproj">
-      <Project>{19712902-83fe-4081-96c0-c0e3346e579e}</Project>
+    <ProjectReference Include="AlmacenVital.Controller\Almacen.Controller.csproj">
+      <Project>{4f552c2c-6de4-954b-817c-8b425530848d}</Project>
       <Name>Almacen.Controller</Name>
     </ProjectReference>
-    <ProjectReference Include="..\AlmacenVital.Model\Almacen.Model.csproj">
-      <Project>{0e1728a7-bdd5-49eb-918e-d2a5cea2966d}</Project>
+    <ProjectReference Include="AlmacenVital.Model\Almacen.Model.csproj">
+      <Project>{40113951-cbf1-2638-99c6-6920cc48d50a}</Project>
       <Name>Almacen.Model</Name>
     </ProjectReference>
   </ItemGroup>
