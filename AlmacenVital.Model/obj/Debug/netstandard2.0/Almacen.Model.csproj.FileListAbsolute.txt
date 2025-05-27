@@ -1,0 +1,10 @@
+C:\Users\DANTE01\source\repos\AlmacenVital.Model\bin\Debug\netstandard2.0\Almacen.Model.deps.json
+C:\Users\DANTE01\source\repos\AlmacenVital.Model\bin\Debug\netstandard2.0\Almacen.Model.dll
+C:\Users\DANTE01\source\repos\AlmacenVital.Model\bin\Debug\netstandard2.0\Almacen.Model.pdb
+C:\Users\DANTE01\source\repos\AlmacenVital.Model\obj\Debug\netstandard2.0\Almacen.Model.csproj.AssemblyReference.cache
+C:\Users\DANTE01\source\repos\AlmacenVital.Model\obj\Debug\netstandard2.0\Almacen.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DANTE01\source\repos\AlmacenVital.Model\obj\Debug\netstandard2.0\Almacen.Model.AssemblyInfoInputs.cache
+C:\Users\DANTE01\source\repos\AlmacenVital.Model\obj\Debug\netstandard2.0\Almacen.Model.AssemblyInfo.cs
+C:\Users\DANTE01\source\repos\AlmacenVital.Model\obj\Debug\netstandard2.0\Almacen.Model.csproj.CoreCompileInputs.cache
+C:\Users\DANTE01\source\repos\AlmacenVital.Model\obj\Debug\netstandard2.0\Almacen.Model.dll
+C:\Users\DANTE01\source\repos\AlmacenVital.Model\obj\Debug\netstandard2.0\Almacen.Model.pdb
